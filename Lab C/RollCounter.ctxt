@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RollCounter
+comment1.params=
+comment1.target=RollCounter()
+comment2.params=numTimes
+comment2.target=void\ runExperiment(int)
+numComments=3
